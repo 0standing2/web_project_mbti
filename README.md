@@ -1,1 +1,1 @@
-# web_projecct_mbti
+# web_project_mbti
